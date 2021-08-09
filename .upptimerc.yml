@@ -11,6 +11,12 @@ sites:
     url: https://ywamasuncion.com/
   - name: TAVA
     url: https://tava.com.py/
+  - name: Finefoods
+    url: https://finefoods.com.py/
+  - name: Kimchi Club
+    url: https://kimchiclub.com/
+  - name: TIVE
+    url: https://tive.com.py/
 
 status-website:
 #   Add your custom domain name, or remove the `cname` line if you don't have a domain
