@@ -4,19 +4,19 @@
     "url": "https://tive.com.py/",
     "icon": "https://favicons.githubusercontent.com/tive.com.py",
     "slug": "tive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 400,
-    "timeWeek": 586,
-    "timeMonth": 505,
-    "timeYear": 532,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 530,
+    "timeDay": 398,
+    "timeWeek": 562,
+    "timeMonth": 502,
+    "timeYear": 530,
     "dailyMinutesDown": {
-      "2021-10-01": 1
+      "2021-10-01": 9
     }
   },
   {
