@@ -13,7 +13,7 @@
     "time": 520,
     "timeDay": 450,
     "timeWeek": 1057,
-    "timeMonth": 412,
+    "timeMonth": 437,
     "timeYear": 520,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 335,
     "timeDay": 380,
     "timeWeek": 325,
-    "timeMonth": 337,
+    "timeMonth": 336,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2022-02-20": 16,
@@ -62,7 +62,7 @@
     "time": 1962,
     "timeDay": 2008,
     "timeWeek": 1711,
-    "timeMonth": 1865,
+    "timeMonth": 1882,
     "timeYear": 1962,
     "dailyMinutesDown": {
       "2022-02-13": 18,
@@ -98,7 +98,7 @@
     "time": 967,
     "timeDay": 1743,
     "timeWeek": 1598,
-    "timeMonth": 1496,
+    "timeMonth": 1521,
     "timeYear": 967,
     "dailyMinutesDown": {
       "2021-11-02": 20
@@ -118,7 +118,7 @@
     "time": 1185,
     "timeDay": 846,
     "timeWeek": 1232,
-    "timeMonth": 1254,
+    "timeMonth": 1239,
     "timeYear": 1185,
     "dailyMinutesDown": {
       "2022-02-20": 16,
@@ -144,7 +144,7 @@
     "time": 312,
     "timeDay": 645,
     "timeWeek": 390,
-    "timeMonth": 338,
+    "timeMonth": 341,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2021-09-28": 23,
@@ -168,7 +168,7 @@
     "time": 1061,
     "timeDay": 1578,
     "timeWeek": 1497,
-    "timeMonth": 1415,
+    "timeMonth": 1392,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2022-02-20": 15,
@@ -190,7 +190,7 @@
     "time": 264,
     "timeDay": 205,
     "timeWeek": 169,
-    "timeMonth": 225,
+    "timeMonth": 223,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2021-11-30": 18,
@@ -211,17 +211,16 @@
     "slug": "organitec",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.74%",
     "time": 1079,
     "timeDay": 1036,
     "timeWeek": 1003,
-    "timeMonth": 1003,
+    "timeMonth": 993,
     "timeYear": 1079,
     "dailyMinutesDown": {
-      "2022-02-28": 10,
       "2022-02-20": 17,
       "2022-02-02": 27,
       "2022-01-19": 18,
@@ -268,7 +267,7 @@
     "time": 1579,
     "timeDay": 2167,
     "timeWeek": 1517,
-    "timeMonth": 1603,
+    "timeMonth": 1553,
     "timeYear": 1579,
     "dailyMinutesDown": {
       "2021-08-19": 26
@@ -288,7 +287,7 @@
     "time": 278,
     "timeDay": 551,
     "timeWeek": 358,
-    "timeMonth": 311,
+    "timeMonth": 317,
     "timeYear": 278,
     "dailyMinutesDown": {}
   },
@@ -306,7 +305,7 @@
     "time": 801,
     "timeDay": 1208,
     "timeWeek": 1026,
-    "timeMonth": 950,
+    "timeMonth": 943,
     "timeYear": 801,
     "dailyMinutesDown": {}
   }
