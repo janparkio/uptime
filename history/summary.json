@@ -99,18 +99,18 @@
     "icon": "https://favicons.githubusercontent.com/nutrihuevos.com.py",
     "slug": "nutrihuevos",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1165,
     "timeDay": 1503,
     "timeWeek": 1655,
     "timeMonth": 1663,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2022-06-21": 2,
+      "2022-06-21": 14,
       "2021-11-02": 20
     }
   },
@@ -149,9 +149,9 @@
     "slug": "tava",
     "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.12%",
     "time": 393,
     "timeDay": 7951,
@@ -159,7 +159,7 @@
     "timeMonth": 1018,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2022-06-21": 2,
+      "2022-06-21": 13,
       "2022-06-03": 18,
       "2021-09-28": 23,
       "2021-08-12": 937,
@@ -278,19 +278,19 @@
     "url": "https://gyvpy.com/",
     "icon": "https://favicons.githubusercontent.com/gyvpy.com",
     "slug": "gracia-and-verdad",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1713,
-    "timeDay": 1678,
-    "timeWeek": 1824,
-    "timeMonth": 2330,
-    "timeYear": 1713,
+    "time": 1712,
+    "timeDay": 1529,
+    "timeWeek": 1768,
+    "timeMonth": 2300,
+    "timeYear": 1712,
     "dailyMinutesDown": {
-      "2022-06-21": 1,
+      "2022-06-21": 12,
       "2021-08-19": 26
     }
   },
@@ -299,19 +299,19 @@
     "url": "https://restaurantpiroschka.com/",
     "icon": "https://favicons.githubusercontent.com/restaurantpiroschka.com",
     "slug": "restaurant-piroschka",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 274,
-    "timeWeek": 367,
-    "timeMonth": 397,
+    "timeDay": 305,
+    "timeWeek": 363,
+    "timeMonth": 395,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 12
     }
   },
   {
@@ -321,9 +321,9 @@
     "slug": "hotel-westfalenhaus",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 912,
     "timeDay": 1128,
@@ -331,7 +331,7 @@
     "timeMonth": 1252,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 12
     }
   }
 ]
