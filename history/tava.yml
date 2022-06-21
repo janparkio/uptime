@@ -1,7 +1,7 @@
 url: https://tava.com.py/
-status: up
-code: 200
-responseTime: 320
-lastUpdated: 2022-06-20T23:09:24.310Z
+status: down
+code: 500
+responseTime: 15582
+lastUpdated: 2022-06-21T06:46:45.130Z
 startTime: Mon Aug 09 2021 21:52:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
