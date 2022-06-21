@@ -98,10 +98,10 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://favicons.githubusercontent.com/nutrihuevos.com.py",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1165,
@@ -110,6 +110,7 @@
     "timeMonth": 1663,
     "timeYear": 1165,
     "dailyMinutesDown": {
+      "2022-06-21": 2,
       "2021-11-02": 20
     }
   },
@@ -146,18 +147,19 @@
     "url": "https://tava.com.py/",
     "icon": "https://favicons.githubusercontent.com/tava.com.py",
     "slug": "tava",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.12%",
-    "time": 346,
-    "timeDay": 320,
-    "timeWeek": 362,
-    "timeMonth": 577,
-    "timeYear": 346,
+    "time": 393,
+    "timeDay": 7951,
+    "timeWeek": 2265,
+    "timeMonth": 1018,
+    "timeYear": 393,
     "dailyMinutesDown": {
+      "2022-06-21": 2,
       "2022-06-03": 18,
       "2021-09-28": 23,
       "2021-08-12": 937,
@@ -276,10 +278,10 @@
     "url": "https://gyvpy.com/",
     "icon": "https://favicons.githubusercontent.com/gyvpy.com",
     "slug": "gracia-and-verdad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1713,
@@ -288,6 +290,7 @@
     "timeMonth": 2330,
     "timeYear": 1713,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2021-08-19": 26
     }
   },
@@ -296,10 +299,10 @@
     "url": "https://restaurantpiroschka.com/",
     "icon": "https://favicons.githubusercontent.com/restaurantpiroschka.com",
     "slug": "restaurant-piroschka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
@@ -307,16 +310,18 @@
     "timeWeek": 367,
     "timeMonth": 397,
     "timeYear": 294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "Hotel Westfalenhaus",
     "url": "https://westfalenhaus.com/",
     "icon": "https://favicons.githubusercontent.com/westfalenhaus.com",
     "slug": "hotel-westfalenhaus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -325,6 +330,8 @@
     "timeWeek": 1227,
     "timeMonth": 1252,
     "timeYear": 912,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
