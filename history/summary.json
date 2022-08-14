@@ -8,7 +8,7 @@
     "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.38%",
+    "uptimeMonth": "64.56%",
     "uptimeYear": "96.91%",
     "time": 504,
     "timeDay": 601,
@@ -40,8 +40,8 @@
     "uptime": "95.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.38%",
-    "uptimeYear": "96.15%",
+    "uptimeMonth": "64.56%",
+    "uptimeYear": "96.17%",
     "time": 339,
     "timeDay": 490,
     "timeWeek": 354,
@@ -67,8 +67,7 @@
       "2021-10-16": 17,
       "2021-10-10": 17,
       "2021-08-16": 878,
-      "2021-08-15": 1440,
-      "2021-08-14": 1440
+      "2021-08-15": 1440
     }
   },
   {
@@ -248,10 +247,10 @@
     "icon": "https://favicons.githubusercontent.com/organitec.com.py",
     "slug": "organitec",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.88%",
+    "uptime": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.81%",
     "time": 1096,
     "timeDay": 977,
@@ -259,7 +258,6 @@
     "timeMonth": 1074,
     "timeYear": 1091,
     "dailyMinutesDown": {
-      "2022-08-13": 10,
       "2022-08-05": 24,
       "2022-07-15": 20,
       "2022-06-24": 133,
@@ -294,8 +292,7 @@
       "2021-09-11": 22,
       "2021-09-04": 20,
       "2021-09-01": 26,
-      "2021-08-22": 17,
-      "2021-08-14": 18
+      "2021-08-22": 17
     }
   },
   {
