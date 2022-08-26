@@ -37,7 +37,7 @@
     "icon": "https://favicons.githubusercontent.com/creativepark.com.py",
     "slug": "creative-park",
     "status": "up",
-    "uptime": "95.24%",
+    "uptime": "95.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
@@ -303,9 +303,9 @@
     "url": "https://gyvpy.com/",
     "icon": "https://favicons.githubusercontent.com/gyvpy.com",
     "slug": "gracia-and-verdad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -315,6 +315,7 @@
     "timeMonth": 3301,
     "timeYear": 1873,
     "dailyMinutesDown": {
+      "2022-08-26": 0,
       "2022-06-30": 229
     }
   },
