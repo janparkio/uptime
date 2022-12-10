@@ -315,10 +315,10 @@
     "url": "https://restaurantpiroschka.com/",
     "icon": "https://icons.duckduckgo.com/ip3/restaurantpiroschka.com.ico",
     "slug": "restaurant-piroschka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 315,
@@ -327,6 +327,7 @@
     "timeMonth": 332,
     "timeYear": 334,
     "dailyMinutesDown": {
+      "2022-12-10": 1,
       "2022-06-30": 229
     }
   },
