@@ -91,7 +91,7 @@
     "timeDay": 2323,
     "timeWeek": 2571,
     "timeMonth": 2597,
-    "timeYear": 2460,
+    "timeYear": 2461,
     "dailyMinutesDown": {
       "2023-01-25": 15,
       "2023-01-05": 68,
@@ -193,9 +193,9 @@
     "url": "https://finefoods.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/finefoods.com.py.ico",
     "slug": "finefoods",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
@@ -205,6 +205,7 @@
     "timeMonth": 1833,
     "timeYear": 1848,
     "dailyMinutesDown": {
+      "2023-02-13": 0,
       "2023-01-25": 41,
       "2022-12-07": 38,
       "2022-12-02": 15,
