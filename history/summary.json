@@ -137,7 +137,7 @@
     "slug": "ywam-asuncion",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "94.05%",
+    "uptimeDay": "94.77%",
     "uptimeWeek": "96.65%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.45%",
@@ -266,13 +266,13 @@
     "url": "https://gyvpy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gyvpy.com.ico",
     "slug": "gracia-and-verdad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "58.22%",
+    "uptimeDay": "58.19%",
     "uptimeWeek": "69.04%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "99.35%",
-    "time": 1072,
+    "uptimeMonth": "92.29%",
+    "uptimeYear": "99.36%",
+    "time": 1073,
     "timeDay": 351,
     "timeWeek": 497,
     "timeMonth": 486,
@@ -286,7 +286,7 @@
       "2023-06-03": 167,
       "2023-06-02": 325,
       "2023-06-01": 266,
-      "2023-05-31": 40
+      "2023-05-31": 24
     }
   },
   {
