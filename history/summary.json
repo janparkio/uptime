@@ -266,15 +266,15 @@
     "url": "https://gyvpy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gyvpy.com.ico",
     "slug": "gracia-and-verdad",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "63.15%",
-    "uptimeWeek": "63.80%",
-    "uptimeMonth": "91.67%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "64.00%",
+    "uptimeWeek": "64.11%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "99.31%",
-    "time": 931,
+    "time": 930,
     "timeDay": 563,
-    "timeWeek": 413,
+    "timeWeek": 415,
     "timeMonth": 469,
     "timeYear": 793,
     "dailyMinutesDown": {
@@ -284,7 +284,7 @@
       "2023-06-10": 614,
       "2023-06-09": 666,
       "2023-06-08": 639,
-      "2023-06-07": 111
+      "2023-06-07": 79
     }
   },
   {
