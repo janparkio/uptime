@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativepark.com.py.ico",
     "slug": "creative-park",
     "status": "down",
-    "uptime": "85.33%",
+    "uptime": "85.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2023-10-02": 10,
+      "2023-10-02": 20,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
@@ -185,9 +185,9 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "43.33%",
+    "uptimeDay": "43.27%",
     "uptimeWeek": "91.90%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "99.84%",
@@ -197,6 +197,7 @@
     "timeMonth": 7423,
     "timeYear": 2010,
     "dailyMinutesDown": {
+      "2023-10-02": 1,
       "2023-10-01": 816
     }
   },
@@ -314,7 +315,7 @@
     "timeMonth": 0,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2023-10-02": 10,
+      "2023-10-02": 21,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
@@ -435,7 +436,7 @@
     "timeMonth": 0,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2023-10-02": 10,
+      "2023-10-02": 21,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
