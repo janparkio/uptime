@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2023-10-02": 980,
+      "2023-10-02": 992,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
@@ -185,19 +185,19 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "6.58%",
+    "uptimeDay": "7.33%",
     "uptimeWeek": "83.01%",
     "uptimeMonth": "96.09%",
     "uptimeYear": "99.67%",
-    "time": 2305,
+    "time": 2306,
     "timeDay": 28012,
     "timeWeek": 20616,
     "timeMonth": 10961,
     "timeYear": 2555,
     "dailyMinutesDown": {
-      "2023-10-02": 895,
+      "2023-10-02": 896,
       "2023-10-01": 816
     }
   },
@@ -315,7 +315,7 @@
     "timeMonth": 0,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2023-10-02": 981,
+      "2023-10-02": 992,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
@@ -436,7 +436,7 @@
     "timeMonth": 0,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2023-10-02": 981,
+      "2023-10-02": 992,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
