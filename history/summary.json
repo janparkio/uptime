@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2025-02-05": 645,
+      "2025-02-05": 660,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -330,7 +330,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativepark.com.py.ico",
     "slug": "creative-park",
     "status": "down",
-    "uptime": "61.77%",
+    "uptime": "61.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -341,7 +341,7 @@
     "timeMonth": 375,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-02-05": 645,
+      "2025-02-05": 661,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -643,16 +643,16 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "20.97%",
-    "uptimeWeek": "19.71%",
-    "uptimeMonth": "81.52%",
-    "uptimeYear": "98.46%",
-    "time": 928,
-    "timeDay": 656,
-    "timeWeek": 676,
-    "timeMonth": 637,
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "22.00%",
+    "uptimeWeek": "23.39%",
+    "uptimeMonth": "82.37%",
+    "uptimeYear": "98.53%",
+    "time": 893,
+    "timeDay": 646,
+    "timeWeek": 673,
+    "timeMonth": 635,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2025-02-05": 518,
@@ -661,8 +661,7 @@
       "2025-02-02": 1265,
       "2025-02-01": 1203,
       "2025-01-31": 1262,
-      "2025-01-30": 1313,
-      "2025-01-29": 265
+      "2025-01-30": 1207
     }
   },
   {
@@ -812,7 +811,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-02-05": 646,
+      "2025-02-05": 661,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -1155,7 +1154,7 @@
     "timeMonth": 215,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-02-05": 646,
+      "2025-02-05": 661,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
