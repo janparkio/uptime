@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tive.com.py.ico",
     "slug": "tive",
     "status": "down",
-    "uptime": "73.74%",
+    "uptime": "73.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-03-03": 1299,
+      "2025-03-03": 1307,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -367,7 +367,7 @@
     "timeMonth": 449,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-03-03": 1299,
+      "2025-03-03": 1307,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -670,17 +670,17 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "23.49%",
-    "uptimeWeek": "15.19%",
-    "uptimeMonth": "71.37%",
-    "uptimeYear": "97.61%",
+    "uptimeDay": "23.47%",
+    "uptimeWeek": "15.26%",
+    "uptimeMonth": "71.50%",
+    "uptimeYear": "97.62%",
     "time": 450,
-    "timeDay": 650,
-    "timeWeek": 672,
-    "timeMonth": 636,
-    "timeYear": 483,
+    "timeDay": 638,
+    "timeWeek": 669,
+    "timeMonth": 635,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2025-03-03": 994,
       "2025-03-02": 1103,
@@ -691,7 +691,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
-      "2025-02-22": 1251
+      "2025-02-22": 1194
     }
   },
   {
@@ -842,7 +842,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-03": 1299,
+      "2025-03-03": 1307,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1185,7 +1185,7 @@
     "timeMonth": 245,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-03-03": 1300,
+      "2025-03-03": 1307,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
