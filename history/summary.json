@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2025-03-03": 1382,
+      "2025-03-03": 1389,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -367,7 +367,7 @@
     "timeMonth": 442,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-03-03": 1382,
+      "2025-03-03": 1389,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -670,16 +670,16 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "22.30%",
-    "uptimeWeek": "15.26%",
-    "uptimeMonth": "71.33%",
-    "uptimeYear": "97.61%",
-    "time": 451,
-    "timeDay": 678,
-    "timeWeek": 674,
-    "timeMonth": 636,
+    "uptimeDay": "22.75%",
+    "uptimeWeek": "15.32%",
+    "uptimeMonth": "71.44%",
+    "uptimeYear": "97.62%",
+    "time": 935,
+    "timeDay": 667,
+    "timeWeek": 671,
+    "timeMonth": 635,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2025-03-03": 1070,
@@ -691,7 +691,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
-      "2025-02-22": 1194
+      "2025-02-22": 1145
     }
   },
   {
@@ -831,7 +831,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gyvpy.com.ico",
     "slug": "gracia-and-verdad",
     "status": "down",
-    "uptime": "54.80%",
+    "uptime": "54.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -842,7 +842,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-03": 1383,
+      "2025-03-03": 1390,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1185,7 +1185,7 @@
     "timeMonth": 241,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-03-03": 1383,
+      "2025-03-03": 1390,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1426,7 +1426,7 @@
     "timeDay": 1650,
     "timeWeek": 1987,
     "timeMonth": 3268,
-    "timeYear": 1835,
+    "timeYear": 1837,
     "dailyMinutesDown": {
       "2024-12-17": 92,
       "2024-10-31": 216,
