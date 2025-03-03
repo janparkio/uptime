@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-03-03": 417,
+      "2025-03-03": 427,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -367,7 +367,7 @@
     "timeMonth": 449,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-03-03": 417,
+      "2025-03-03": 427,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -670,16 +670,16 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "19.87%",
-    "uptimeWeek": "12.95%",
-    "uptimeMonth": "44.89%",
-    "uptimeYear": "95.41%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "20.60%",
+    "uptimeWeek": "13.06%",
+    "uptimeMonth": "45.65%",
+    "uptimeYear": "95.47%",
     "time": 436,
-    "timeDay": 723,
-    "timeWeek": 675,
-    "timeMonth": 637,
+    "timeDay": 713,
+    "timeWeek": 673,
+    "timeMonth": 635,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2025-03-03": 336,
@@ -700,7 +700,7 @@
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
-      "2025-02-13": 881
+      "2025-02-13": 551
     }
   },
   {
@@ -851,7 +851,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-03": 417,
+      "2025-03-03": 428,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1194,7 +1194,7 @@
     "timeMonth": 245,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-03-03": 417,
+      "2025-03-03": 428,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
