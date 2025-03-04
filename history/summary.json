@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2025-03-04": 264,
+      "2025-03-04": 275,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -368,7 +368,7 @@
     "timeMonth": 442,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-03-04": 264,
+      "2025-03-04": 275,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -671,16 +671,16 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "22.66%",
-    "uptimeWeek": "16.01%",
-    "uptimeMonth": "71.12%",
-    "uptimeYear": "97.59%",
+    "uptimeDay": "23.43%",
+    "uptimeWeek": "16.12%",
+    "uptimeMonth": "71.16%",
+    "uptimeYear": "97.60%",
     "time": 853,
-    "timeDay": 670,
-    "timeWeek": 676,
-    "timeMonth": 637,
+    "timeDay": 660,
+    "timeWeek": 674,
+    "timeMonth": 635,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2025-03-04": 210,
@@ -693,7 +693,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
-      "2025-02-22": 1043
+      "2025-02-22": 1022
     }
   },
   {
@@ -844,7 +844,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-04": 264,
+      "2025-03-04": 275,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -1176,7 +1176,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/restaurantpiroschka.com.ico",
     "slug": "restaurant-piroschka",
     "status": "down",
-    "uptime": "82.96%",
+    "uptime": "82.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1187,7 +1187,7 @@
     "timeMonth": 241,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-03-04": 264,
+      "2025-03-04": 275,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
