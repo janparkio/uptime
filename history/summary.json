@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-03-11": 1219,
+      "2025-03-11": 1230,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -373,7 +373,7 @@
     "timeMonth": 419,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-03-11": 1219,
+      "2025-03-11": 1230,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -676,16 +676,16 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "25.96%",
-    "uptimeWeek": "46.09%",
-    "uptimeMonth": "87.60%",
+    "uptimeDay": "26.72%",
+    "uptimeWeek": "46.32%",
+    "uptimeMonth": "87.65%",
     "uptimeYear": "98.97%",
-    "time": 500,
-    "timeDay": 631,
-    "timeWeek": 622,
-    "timeMonth": 631,
+    "time": 794,
+    "timeDay": 617,
+    "timeWeek": 618,
+    "timeMonth": 630,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2025-03-11": 920,
@@ -693,7 +693,7 @@
       "2025-03-09": 1000,
       "2025-03-08": 1014,
       "2025-03-07": 1042,
-      "2025-03-06": 398
+      "2025-03-06": 375
     }
   },
   {
@@ -831,7 +831,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gyvpy.com.ico",
     "slug": "gracia-and-verdad",
     "status": "down",
-    "uptime": "54.47%",
+    "uptime": "54.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -842,7 +842,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-11": 1219,
+      "2025-03-11": 1230,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1185,7 +1185,7 @@
     "timeMonth": 253,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-03-11": 1219,
+      "2025-03-11": 1230,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
