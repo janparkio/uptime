@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-03-12": 1024,
+      "2025-03-12": 1047,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -374,7 +374,7 @@
     "timeMonth": 416,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-03-12": 1024,
+      "2025-03-12": 1047,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -677,24 +677,24 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "31.80%",
-    "uptimeWeek": "45.81%",
-    "uptimeMonth": "87.53%",
-    "uptimeYear": "98.96%",
+    "uptimeDay": "33.31%",
+    "uptimeWeek": "46.28%",
+    "uptimeMonth": "87.64%",
+    "uptimeYear": "98.97%",
     "time": 491,
-    "timeDay": 697,
-    "timeWeek": 623,
+    "timeDay": 672,
+    "timeWeek": 622,
     "timeMonth": 634,
-    "timeYear": 531,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2025-03-12": 692,
       "2025-03-11": 1034,
       "2025-03-10": 1061,
       "2025-03-09": 1000,
       "2025-03-08": 1014,
-      "2025-03-07": 662
+      "2025-03-07": 615
     }
   },
   {
@@ -843,7 +843,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-12": 1024,
+      "2025-03-12": 1047,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1175,7 +1175,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/restaurantpiroschka.com.ico",
     "slug": "restaurant-piroschka",
     "status": "down",
-    "uptime": "82.42%",
+    "uptime": "82.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1186,7 +1186,7 @@
     "timeMonth": 252,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-03-12": 1024,
+      "2025-03-12": 1047,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
