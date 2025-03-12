@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-03-12": 358,
+      "2025-03-12": 370,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -363,7 +363,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativepark.com.py.ico",
     "slug": "creative-park",
     "status": "down",
-    "uptime": "60.13%",
+    "uptime": "60.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -374,7 +374,7 @@
     "timeMonth": 416,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-03-12": 358,
+      "2025-03-12": 370,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -677,17 +677,17 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "28.05%",
-    "uptimeWeek": "44.78%",
-    "uptimeMonth": "87.29%",
-    "uptimeYear": "98.94%",
-    "time": 672,
-    "timeDay": 620,
-    "timeWeek": 616,
+    "uptimeDay": "28.89%",
+    "uptimeWeek": "45.70%",
+    "uptimeMonth": "87.50%",
+    "uptimeYear": "98.96%",
+    "time": 654,
+    "timeDay": 607,
+    "timeWeek": 614,
     "timeMonth": 631,
-    "timeYear": 528,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2025-03-12": 239,
       "2025-03-11": 1034,
@@ -695,7 +695,7 @@
       "2025-03-09": 1000,
       "2025-03-08": 1014,
       "2025-03-07": 1042,
-      "2025-03-06": 177
+      "2025-03-06": 84
     }
   },
   {
@@ -844,7 +844,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-12": 358,
+      "2025-03-12": 371,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1187,7 +1187,7 @@
     "timeMonth": 252,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-03-12": 358,
+      "2025-03-12": 371,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
