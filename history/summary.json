@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2025-03-15": 1120,
+      "2025-03-15": 1128,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -377,7 +377,7 @@
     "timeMonth": 438,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-03-15": 1120,
+      "2025-03-15": 1128,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -644,9 +644,9 @@
     "slug": "tupi",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.10%",
     "time": 1955,
     "timeDay": 4362,
@@ -654,7 +654,7 @@
     "timeMonth": 2471,
     "timeYear": 1849,
     "dailyMinutesDown": {
-      "2025-03-15": 32,
+      "2025-03-15": 22,
       "2025-02-24": 35,
       "2025-01-03": 33,
       "2024-12-25": 108,
@@ -681,15 +681,15 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "27.88%",
-    "uptimeWeek": "21.54%",
-    "uptimeMonth": "81.95%",
+    "uptimeDay": "28.43%",
+    "uptimeWeek": "21.71%",
+    "uptimeMonth": "81.98%",
     "uptimeYear": "98.50%",
     "time": 509,
-    "timeDay": 617,
-    "timeWeek": 627,
+    "timeDay": 610,
+    "timeWeek": 624,
     "timeMonth": 634,
     "timeYear": 534,
     "dailyMinutesDown": {
@@ -700,7 +700,7 @@
       "2025-03-11": 1034,
       "2025-03-10": 1061,
       "2025-03-09": 1000,
-      "2025-03-08": 152
+      "2025-03-08": 135
     }
   },
   {
@@ -849,7 +849,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-15": 1120,
+      "2025-03-15": 1128,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1192,7 +1192,7 @@
     "timeMonth": 249,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-03-15": 1120,
+      "2025-03-15": 1128,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
