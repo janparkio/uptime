@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2025-03-17": 1193,
+      "2025-03-17": 1211,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -379,7 +379,7 @@
     "timeMonth": 425,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-03-17": 1193,
+      "2025-03-17": 1211,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -683,17 +683,17 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "31.67%",
-    "uptimeWeek": "22.91%",
-    "uptimeMonth": "82.26%",
-    "uptimeYear": "98.52%",
-    "time": 650,
-    "timeDay": 600,
-    "timeWeek": 618,
+    "uptimeDay": "32.91%",
+    "uptimeWeek": "23.13%",
+    "uptimeMonth": "82.31%",
+    "uptimeYear": "98.53%",
+    "time": 636,
+    "timeDay": 592,
+    "timeWeek": 616,
     "timeMonth": 631,
-    "timeYear": 540,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2025-03-17": 775,
       "2025-03-16": 1025,
@@ -702,7 +702,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1064,
       "2025-03-11": 1034,
-      "2025-03-10": 77
+      "2025-03-10": 54
     }
   },
   {
@@ -851,7 +851,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-17": 1193,
+      "2025-03-17": 1211,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -1183,7 +1183,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/restaurantpiroschka.com.ico",
     "slug": "restaurant-piroschka",
     "status": "down",
-    "uptime": "82.10%",
+    "uptime": "82.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1194,7 +1194,7 @@
     "timeMonth": 245,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-03-17": 1193,
+      "2025-03-17": 1211,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
