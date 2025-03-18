@@ -14,9 +14,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 619,
+    "timeYear": 620,
     "dailyMinutesDown": {
-      "2025-03-18": 228,
+      "2025-03-18": 236,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -369,7 +369,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativepark.com.py.ico",
     "slug": "creative-park",
     "status": "down",
-    "uptime": "59.86%",
+    "uptime": "59.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -380,7 +380,7 @@
     "timeMonth": 429,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-03-18": 228,
+      "2025-03-18": 236,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -684,17 +684,17 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "27.24%",
-    "uptimeWeek": "22.85%",
-    "uptimeMonth": "82.25%",
+    "uptimeDay": "27.75%",
+    "uptimeWeek": "23.08%",
+    "uptimeMonth": "82.30%",
     "uptimeYear": "98.52%",
     "time": 547,
-    "timeDay": 656,
+    "timeDay": 645,
     "timeWeek": 620,
-    "timeMonth": 634,
-    "timeYear": 542,
+    "timeMonth": 633,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2025-03-18": 205,
       "2025-03-17": 945,
@@ -703,7 +703,7 @@
       "2025-03-14": 1369,
       "2025-03-13": 1440,
       "2025-03-12": 1064,
-      "2025-03-11": 741
+      "2025-03-11": 718
     }
   },
   {
@@ -721,7 +721,7 @@
     "timeDay": 1279,
     "timeWeek": 958,
     "timeMonth": 1047,
-    "timeYear": 1634,
+    "timeYear": 1632,
     "dailyMinutesDown": {
       "2024-09-05": 161,
       "2024-09-04": 1412,
@@ -767,7 +767,7 @@
     "timeDay": 1577,
     "timeWeek": 1328,
     "timeMonth": 1555,
-    "timeYear": 2002,
+    "timeYear": 2001,
     "dailyMinutesDown": {
       "2024-09-05": 15,
       "2024-08-16": 862,
@@ -852,7 +852,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-18": 228,
+      "2025-03-18": 236,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1195,7 +1195,7 @@
     "timeMonth": 237,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-03-18": 228,
+      "2025-03-18": 236,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
