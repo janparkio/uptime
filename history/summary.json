@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2025-05-01": 593,
+      "2025-05-01": 601,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 390,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-05-01": 593,
+      "2025-05-01": 601,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -709,16 +709,16 @@
     "url": "https://nutrihuevos.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "78.76%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "78.75%",
     "uptimeMonth": "83.79%",
-    "uptimeYear": "98.26%",
+    "uptimeYear": "98.27%",
     "time": 571,
-    "timeDay": 628,
-    "timeWeek": 740,
-    "timeMonth": 703,
+    "timeDay": 436,
+    "timeWeek": 682,
+    "timeMonth": 701,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2025-05-01": 593,
@@ -740,7 +740,7 @@
       "2025-04-01": 275,
       "2025-03-31": 513,
       "2025-03-30": 809,
-      "2025-03-29": 473
+      "2025-03-29": 437
     }
   },
   {
@@ -888,7 +888,7 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-05-01": 593,
+      "2025-05-01": 601,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -1220,7 +1220,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/restaurantpiroschka.com.ico",
     "slug": "restaurant-piroschka",
     "status": "down",
-    "uptime": "79.41%",
+    "uptime": "79.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1231,7 +1231,7 @@
     "timeMonth": 241,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-05-01": 593,
+      "2025-05-01": 601,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
