@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-13": 1261,
+      "2025-10-14": 14,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -379,8 +380,7 @@
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
-      "2024-10-15": 1440,
-      "2024-10-14": 1440
+      "2024-10-15": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativepark.com.py.ico",
     "slug": "creative-park",
     "status": "down",
-    "uptime": "51.63%",
+    "uptime": "51.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 349,
-    "timeDay": 539,
-    "timeWeek": 336,
+    "time": 350,
+    "timeDay": 315,
+    "timeWeek": 341,
     "timeMonth": 344,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-10-13": 1261,
+      "2025-10-14": 14,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -763,8 +764,7 @@
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
-      "2024-10-15": 1440,
-      "2024-10-14": 1440
+      "2024-10-15": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "95.66%",
-    "time": 1892,
-    "timeDay": 2322,
-    "timeWeek": 2215,
-    "timeMonth": 2236,
-    "timeYear": 2002,
+    "time": 1893,
+    "timeDay": 2286,
+    "timeWeek": 2226,
+    "timeMonth": 2230,
+    "timeYear": 2003,
     "dailyMinutesDown": {
       "2025-10-04": 23,
       "2025-09-29": 38,
@@ -838,18 +838,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
     "status": "down",
-    "uptime": "93.42%",
+    "uptime": "93.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.49%",
+    "uptimeYear": "72.45%",
     "time": 588,
-    "timeDay": 195,
-    "timeWeek": 142,
-    "timeMonth": 170,
+    "timeDay": 296,
+    "timeWeek": 164,
+    "timeMonth": 177,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2025-10-13": 1261,
+      "2025-10-14": 14,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -977,10 +978,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1382,
-    "timeDay": 1115,
-    "timeWeek": 985,
-    "timeMonth": 1096,
+    "time": 1380,
+    "timeDay": 815,
+    "timeWeek": 964,
+    "timeMonth": 1085,
     "timeYear": 1343,
     "dailyMinutesDown": {
       "2025-08-13": 67
@@ -997,11 +998,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 515,
-    "timeWeek": 404,
-    "timeMonth": 502,
-    "timeYear": 463,
+    "time": 533,
+    "timeDay": 398,
+    "timeWeek": 421,
+    "timeMonth": 504,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2025-08-07": 16
     }
@@ -1017,11 +1018,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1958,
-    "timeDay": 1402,
-    "timeWeek": 1552,
-    "timeMonth": 1492,
-    "timeYear": 1837,
+    "time": 1954,
+    "timeDay": 1250,
+    "timeWeek": 1563,
+    "timeMonth": 1481,
+    "timeYear": 1838,
     "dailyMinutesDown": {
       "2025-08-13": 66
     }
@@ -1037,15 +1038,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 390,
-    "timeDay": 539,
-    "timeWeek": 453,
-    "timeMonth": 595,
-    "timeYear": 441,
+    "time": 391,
+    "timeDay": 493,
+    "timeWeek": 483,
+    "timeMonth": 593,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2025-08-07": 16,
-      "2024-10-15": 1124,
-      "2024-10-14": 604
+      "2024-10-15": 1124
     }
   },
   {
@@ -1055,17 +1055,16 @@
     "slug": "organitec",
     "status": "up",
     "uptime": "93.29%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 1329,
-    "timeDay": 705,
-    "timeWeek": 993,
-    "timeMonth": 952,
+    "timeDay": 537,
+    "timeWeek": 1002,
+    "timeMonth": 940,
     "timeYear": 1335,
     "dailyMinutesDown": {
-      "2025-10-13": 7,
       "2025-08-17": 31,
       "2025-08-03": 33,
       "2025-07-26": 612,
@@ -1096,13 +1095,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 170,
+    "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-13": 1261,
+      "2025-10-14": 14,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -1465,8 +1465,7 @@
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
-      "2024-10-15": 1440,
-      "2024-10-14": 1440
+      "2024-10-15": 1440
     }
   },
   {
@@ -1475,7 +1474,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/restaurantpiroschka.com.ico",
     "slug": "restaurant-piroschka",
     "status": "down",
-    "uptime": "73.56%",
+    "uptime": "73.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1484,9 +1483,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 248,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-10-13": 1261,
+      "2025-10-14": 14,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -1811,8 +1811,7 @@
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
-      "2024-10-15": 1440,
-      "2024-10-14": 1440
+      "2024-10-15": 1440
     }
   },
   {
@@ -1826,11 +1825,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 2389,
-    "timeDay": 3077,
-    "timeWeek": 2522,
-    "timeMonth": 2841,
-    "timeYear": 2685,
+    "time": 2391,
+    "timeDay": 3004,
+    "timeWeek": 2682,
+    "timeMonth": 2847,
+    "timeYear": 2690,
     "dailyMinutesDown": {
       "2025-08-10": 18,
       "2024-12-17": 92,
