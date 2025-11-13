@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tive.com.py.ico",
     "slug": "tive",
     "status": "down",
-    "uptime": "61.70%",
+    "uptime": "61.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 1366,
+      "2025-11-13": 16,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -379,8 +380,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -394,13 +394,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 354,
-    "timeDay": 472,
-    "timeWeek": 378,
-    "timeMonth": 371,
+    "time": 353,
+    "timeDay": 396,
+    "timeWeek": 353,
+    "timeMonth": 367,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2025-11-12": 1366,
+      "2025-11-13": 16,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -763,8 +764,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -775,14 +775,14 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "98.86%",
-    "uptimeWeek": "18.41%",
+    "uptimeWeek": "19.30%",
     "uptimeMonth": "74.69%",
     "uptimeYear": "93.55%",
-    "time": 1949,
-    "timeDay": 2124,
-    "timeWeek": 1090,
-    "timeMonth": 2220,
-    "timeYear": 2020,
+    "time": 1952,
+    "timeDay": 1873,
+    "timeWeek": 1362,
+    "timeMonth": 2230,
+    "timeYear": 2023,
     "dailyMinutesDown": {
       "2025-11-12": 16,
       "2025-11-11": 934,
@@ -853,14 +853,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.25%",
+    "uptimeYear": "64.23%",
     "time": 588,
-    "timeDay": 227,
-    "timeWeek": 161,
-    "timeMonth": 187,
+    "timeDay": 224,
+    "timeWeek": 160,
+    "timeMonth": 188,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2025-11-12": 1366,
+      "2025-11-13": 16,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -1019,9 +1020,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1339,
-    "timeDay": 921,
-    "timeWeek": 1182,
-    "timeMonth": 1041,
+    "timeDay": 1197,
+    "timeWeek": 1185,
+    "timeMonth": 1044,
     "timeYear": 1308,
     "dailyMinutesDown": {
       "2025-08-13": 67
@@ -1039,10 +1040,10 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 575,
-    "timeDay": 554,
-    "timeWeek": 485,
-    "timeMonth": 528,
-    "timeYear": 464,
+    "timeDay": 941,
+    "timeWeek": 493,
+    "timeMonth": 539,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2025-11-09": 15,
       "2025-11-07": 122,
@@ -1062,10 +1063,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1798,
-    "timeDay": 1950,
-    "timeWeek": 1565,
-    "timeMonth": 1654,
-    "timeYear": 1833,
+    "timeDay": 1530,
+    "timeWeek": 1563,
+    "timeMonth": 1658,
+    "timeYear": 1832,
     "dailyMinutesDown": {
       "2025-08-13": 66
     }
@@ -1081,11 +1082,11 @@
     "uptimeWeek": "98.63%",
     "uptimeMonth": "93.21%",
     "uptimeYear": "99.43%",
-    "time": 381,
-    "timeDay": 660,
-    "timeWeek": 476,
-    "timeMonth": 524,
-    "timeYear": 465,
+    "time": 382,
+    "timeDay": 679,
+    "timeWeek": 491,
+    "timeMonth": 527,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2025-11-09": 15,
       "2025-11-07": 122,
@@ -1109,10 +1110,10 @@
     "uptimeMonth": "95.47%",
     "uptimeYear": "99.29%",
     "time": 1195,
-    "timeDay": 454,
+    "timeDay": 505,
     "timeWeek": 644,
     "timeMonth": 687,
-    "timeYear": 1123,
+    "timeYear": 1122,
     "dailyMinutesDown": {
       "2025-11-11": 91,
       "2025-11-10": 111,
@@ -1159,13 +1160,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 150,
+    "time": 183,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 1366,
+      "2025-11-13": 16,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -1528,8 +1530,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -1538,7 +1539,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/restaurantpiroschka.com.ico",
     "slug": "restaurant-piroschka",
     "status": "down",
-    "uptime": "72.14%",
+    "uptime": "72.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1549,7 +1550,8 @@
     "timeMonth": 0,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-11-12": 1366,
+      "2025-11-13": 16,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -1874,8 +1876,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -1889,11 +1890,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 2480,
-    "timeDay": 3270,
-    "timeWeek": 2762,
-    "timeMonth": 2658,
-    "timeYear": 2795,
+    "time": 2482,
+    "timeDay": 2441,
+    "timeWeek": 2667,
+    "timeMonth": 2638,
+    "timeYear": 2797,
     "dailyMinutesDown": {
       "2025-10-16": 16,
       "2025-08-10": 18,
