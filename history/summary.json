@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tive.com.py.ico",
     "slug": "tive",
     "status": "down",
-    "uptime": "61.07%",
+    "uptime": "61.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-29": 45,
+      "2025-11-29": 77,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 484,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2025-11-29": 45,
+      "2025-11-29": 77,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -859,7 +859,7 @@
     "timeMonth": 192,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2025-11-29": 45,
+      "2025-11-29": 77,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -1124,17 +1124,17 @@
     "url": "https://organitec.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/organitec.com.py.ico",
     "slug": "organitec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "95.26%",
+    "uptimeYear": "99.30%",
     "time": 1113,
-    "timeDay": 554,
-    "timeWeek": 669,
-    "timeMonth": 726,
-    "timeYear": 1086,
+    "timeDay": 552,
+    "timeWeek": 666,
+    "timeMonth": 725,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2025-11-29": 22,
       "2025-11-27": 29,
@@ -1168,8 +1168,7 @@
       "2025-04-19": 97,
       "2025-03-01": 40,
       "2025-02-09": 372,
-      "2025-02-08": 65,
-      "2025-01-25": 67
+      "2025-02-08": 65
     }
   },
   {
@@ -1189,7 +1188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-29": 45,
+      "2025-11-29": 77,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -1573,7 +1572,7 @@
     "timeMonth": 0,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-11-29": 45,
+      "2025-11-29": 77,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
