@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tive.com.py.ico",
     "slug": "tive",
     "status": "down",
-    "uptime": "59.26%",
+    "uptime": "59.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-16": 17,
+      "2026-01-16": 169,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 327,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2026-01-16": 17,
+      "2026-01-16": 169,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
@@ -852,14 +852,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.70%",
+    "uptimeYear": "46.67%",
     "time": 590,
     "timeDay": 162,
     "timeWeek": 133,
     "timeMonth": 175,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2026-01-16": 17,
+      "2026-01-16": 169,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
@@ -1172,16 +1172,16 @@
     "url": "https://organitec.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/organitec.com.py.ico",
     "slug": "organitec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "97.96%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "98.61%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.50%",
     "time": 1016,
-    "timeDay": 982,
-    "timeWeek": 787,
-    "timeMonth": 719,
+    "timeDay": 952,
+    "timeWeek": 781,
+    "timeMonth": 720,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2026-01-16": 14,
@@ -1224,7 +1224,7 @@
       "2025-11-03": 105,
       "2025-11-02": 264,
       "2025-11-01": 119,
-      "2025-10-31": 72
+      "2025-10-31": 54
     }
   },
   {
@@ -1244,7 +1244,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-16": 18,
+      "2026-01-16": 170,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
@@ -1628,7 +1628,7 @@
     "timeMonth": 0,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2026-01-16": 18,
+      "2026-01-16": 170,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
