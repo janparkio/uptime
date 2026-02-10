@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-09": 1262,
+      "2026-02-10": 26,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -379,8 +380,7 @@
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
-      "2025-02-11": 1440,
-      "2025-02-10": 1440
+      "2025-02-11": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 367,
-    "timeDay": 271,
-    "timeWeek": 303,
+    "timeDay": 249,
+    "timeWeek": 314,
     "timeMonth": 320,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2026-02-09": 1262,
+      "2026-02-10": 26,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -763,8 +764,7 @@
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
-      "2025-02-11": 1440,
-      "2025-02-10": 1440
+      "2025-02-11": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "93.89%",
-    "time": 2226,
-    "timeDay": 2953,
-    "timeWeek": 4440,
-    "timeMonth": 3116,
-    "timeYear": 2402,
+    "time": 2228,
+    "timeDay": 3020,
+    "timeWeek": 4496,
+    "timeMonth": 3132,
+    "timeYear": 2404,
     "dailyMinutesDown": {
       "2026-01-17": 19,
       "2026-01-16": 35,
@@ -853,12 +853,12 @@
     "uptime": "88.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.40%",
+    "uptimeMonth": "76.87%",
     "uptimeYear": "46.41%",
     "time": 618,
-    "timeDay": 148,
-    "timeWeek": 340,
-    "timeMonth": 445,
+    "timeDay": 274,
+    "timeWeek": 322,
+    "timeMonth": 450,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2026-01-17": 80,
@@ -1085,10 +1085,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 1424,
-    "timeDay": 1233,
-    "timeWeek": 1111,
-    "timeMonth": 2617,
+    "time": 1423,
+    "timeDay": 1102,
+    "timeWeek": 1124,
+    "timeMonth": 2616,
     "timeYear": 1478,
     "dailyMinutesDown": {
       "2026-01-30": 17,
@@ -1108,10 +1108,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 498,
-    "timeDay": 298,
-    "timeWeek": 403,
-    "timeMonth": 424,
+    "time": 497,
+    "timeDay": 523,
+    "timeWeek": 376,
+    "timeMonth": 429,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2025-11-18": 163,
@@ -1133,11 +1133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1868,
-    "timeDay": 1678,
-    "timeWeek": 2599,
-    "timeMonth": 2339,
-    "timeYear": 1905,
+    "time": 1867,
+    "timeDay": 1766,
+    "timeWeek": 2637,
+    "timeMonth": 2351,
+    "timeYear": 1906,
     "dailyMinutesDown": {
       "2026-01-20": 22,
       "2025-11-18": 140,
@@ -1156,9 +1156,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.40%",
     "time": 430,
-    "timeDay": 248,
-    "timeWeek": 389,
-    "timeMonth": 444,
+    "timeDay": 259,
+    "timeWeek": 380,
+    "timeMonth": 439,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2026-02-05": 17,
@@ -1186,10 +1186,10 @@
     "uptimeMonth": "98.49%",
     "uptimeYear": "99.52%",
     "time": 989,
-    "timeDay": 696,
-    "timeWeek": 1077,
-    "timeMonth": 845,
-    "timeYear": 925,
+    "timeDay": 659,
+    "timeWeek": 1080,
+    "timeMonth": 850,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2026-02-09": 17,
       "2026-02-08": 55,
@@ -1260,7 +1260,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-09": 1263,
+      "2026-02-10": 27,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -1623,8 +1624,7 @@
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
-      "2025-02-11": 1440,
-      "2025-02-10": 1440
+      "2025-02-11": 1440
     }
   },
   {
@@ -1633,7 +1633,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/restaurantpiroschka.com.ico",
     "slug": "restaurant-piroschka",
     "status": "down",
-    "uptime": "68.24%",
+    "uptime": "68.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1642,9 +1642,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 258,
+    "timeYear": 259,
     "dailyMinutesDown": {
-      "2026-02-09": 1263,
+      "2026-02-10": 27,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -1969,8 +1970,7 @@
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
-      "2025-02-11": 1440,
-      "2025-02-10": 1440
+      "2025-02-11": 1440
     }
   },
   {
@@ -1984,9 +1984,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "99.88%",
-    "time": 2591,
-    "timeDay": 4219,
-    "timeWeek": 3533,
+    "time": 2594,
+    "timeDay": 3151,
+    "timeWeek": 3574,
     "timeMonth": 3193,
     "timeYear": 2971,
     "dailyMinutesDown": {
