@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tive.com.py.ico",
     "slug": "tive",
     "status": "down",
-    "uptime": "58.03%",
+    "uptime": "58.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-19": 594,
+      "2026-02-19": 716,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 330,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2026-02-19": 594,
+      "2026-02-19": 716,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -1182,19 +1182,19 @@
     "url": "https://organitec.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/organitec.com.py.ico",
     "slug": "organitec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "91.09%",
-    "uptimeWeek": "93.71%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "93.70%",
     "uptimeMonth": "97.20%",
-    "uptimeYear": "99.54%",
-    "time": 993,
-    "timeDay": 678,
-    "timeWeek": 1095,
-    "timeMonth": 968,
+    "uptimeYear": "99.55%",
+    "time": 992,
+    "timeDay": 677,
+    "timeWeek": 1085,
+    "timeMonth": 965,
     "timeYear": 911,
     "dailyMinutesDown": {
-      "2026-02-19": 81,
+      "2026-02-19": 82,
       "2026-02-18": 103,
       "2026-02-17": 160,
       "2026-02-16": 47,
@@ -1247,8 +1247,7 @@
       "2025-11-18": 20,
       "2025-11-13": 21,
       "2025-11-11": 91,
-      "2025-11-10": 111,
-      "2025-11-09": 2
+      "2025-11-10": 74
     }
   },
   {
@@ -1268,7 +1267,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-19": 595,
+      "2026-02-19": 717,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -1652,7 +1651,7 @@
     "timeMonth": 0,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2026-02-19": 595,
+      "2026-02-19": 717,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
