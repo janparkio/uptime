@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-03": 339,
+      "2026-03-03": 502,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 378,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2026-03-03": 339,
+      "2026-03-03": 502,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -1183,18 +1183,19 @@
     "url": "https://organitec.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/organitec.com.py.ico",
     "slug": "organitec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "97.59%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "97.58%",
     "uptimeMonth": "96.55%",
     "uptimeYear": "99.56%",
     "time": 1010,
-    "timeDay": 498,
-    "timeWeek": 566,
-    "timeMonth": 1187,
+    "timeDay": 526,
+    "timeWeek": 567,
+    "timeMonth": 1184,
     "timeYear": 942,
     "dailyMinutesDown": {
+      "2026-03-03": 1,
       "2026-03-02": 18,
       "2026-03-01": 45,
       "2026-02-27": 27,
@@ -1242,8 +1243,7 @@
       "2025-12-23": 23,
       "2025-12-17": 40,
       "2025-12-15": 63,
-      "2025-12-14": 8,
-      "2025-12-12": 16
+      "2025-12-14": 8
     }
   },
   {
@@ -1252,7 +1252,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gyvpy.com.ico",
     "slug": "gracia-and-verdad",
     "status": "down",
-    "uptime": "42.82%",
+    "uptime": "42.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1263,7 +1263,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-03": 339,
+      "2026-03-03": 503,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -1647,7 +1647,7 @@
     "timeMonth": 0,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2026-03-03": 339,
+      "2026-03-03": 503,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
