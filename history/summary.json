@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-17": 1171,
+      "2026-03-18": 23,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -379,8 +380,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
-      "2025-03-19": 1440,
-      "2025-03-18": 1440
+      "2025-03-19": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativepark.com.py.ico",
     "slug": "creative-park",
     "status": "down",
-    "uptime": "46.87%",
+    "uptime": "46.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 368,
-    "timeDay": 263,
-    "timeWeek": 272,
-    "timeMonth": 368,
+    "timeDay": 248,
+    "timeWeek": 275,
+    "timeMonth": 347,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2026-03-17": 1171,
+      "2026-03-18": 23,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -763,8 +764,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
-      "2025-03-19": 1440,
-      "2025-03-18": 1440
+      "2025-03-19": 1440
     }
   },
   {
@@ -775,14 +775,14 @@
     "status": "up",
     "uptime": "98.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "93.89%",
-    "time": 2375,
-    "timeDay": 3054,
-    "timeWeek": 2178,
-    "timeMonth": 2659,
-    "timeYear": 2427,
+    "time": 2377,
+    "timeDay": 2591,
+    "timeWeek": 2796,
+    "timeMonth": 2657,
+    "timeYear": 2429,
     "dailyMinutesDown": {
       "2026-03-10": 39,
       "2026-01-17": 19,
@@ -839,8 +839,7 @@
       "2025-04-04": 1022,
       "2025-04-03": 1440,
       "2025-04-02": 461,
-      "2025-03-23": 23,
-      "2025-03-18": 17
+      "2025-03-23": 23
     }
   },
   {
@@ -849,15 +848,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
     "status": "up",
-    "uptime": "88.36%",
+    "uptime": "88.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "46.41%",
     "time": 608,
-    "timeDay": 197,
-    "timeWeek": 454,
-    "timeMonth": 507,
+    "timeDay": 345,
+    "timeWeek": 422,
+    "timeMonth": 483,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2026-01-17": 80,
@@ -1084,10 +1083,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1400,
-    "timeDay": 1024,
-    "timeWeek": 1116,
-    "timeMonth": 1022,
+    "time": 1401,
+    "timeDay": 1476,
+    "timeWeek": 1148,
+    "timeMonth": 1040,
     "timeYear": 1484,
     "dailyMinutesDown": {
       "2026-01-30": 17,
@@ -1107,10 +1106,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
-    "time": 472,
-    "timeDay": 235,
-    "timeWeek": 406,
-    "timeMonth": 434,
+    "time": 471,
+    "timeDay": 273,
+    "timeWeek": 361,
+    "timeMonth": 424,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2026-02-24": 22,
@@ -1136,10 +1135,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1902,
-    "timeDay": 1528,
-    "timeWeek": 1475,
-    "timeMonth": 2133,
-    "timeYear": 1967,
+    "timeDay": 1215,
+    "timeWeek": 1416,
+    "timeMonth": 2120,
+    "timeYear": 1966,
     "dailyMinutesDown": {
       "2026-02-13": 16,
       "2026-01-20": 22,
@@ -1159,9 +1158,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.40%",
     "time": 499,
-    "timeDay": 234,
-    "timeWeek": 451,
-    "timeMonth": 1569,
+    "timeDay": 265,
+    "timeWeek": 450,
+    "timeMonth": 1563,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2026-02-24": 21,
@@ -1189,10 +1188,10 @@
     "uptimeWeek": "98.16%",
     "uptimeMonth": "97.24%",
     "uptimeYear": "99.57%",
-    "time": 1004,
-    "timeDay": 1966,
-    "timeWeek": 831,
-    "timeMonth": 1078,
+    "time": 994,
+    "timeDay": 1796,
+    "timeWeek": 835,
+    "timeMonth": 1076,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2026-03-17": 29,
@@ -1260,7 +1259,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-17": 1171,
+      "2026-03-18": 24,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -1623,8 +1623,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
-      "2025-03-19": 1440,
-      "2025-03-18": 1440
+      "2025-03-19": 1440
     }
   },
   {
@@ -1633,18 +1632,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/restaurantpiroschka.com.ico",
     "slug": "restaurant-piroschka",
     "status": "down",
-    "uptime": "66.78%",
+    "uptime": "66.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "11.24%",
-    "time": 249,
+    "time": 248,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 261,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2026-03-17": 1171,
+      "2026-03-18": 24,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -1969,8 +1969,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
-      "2025-03-19": 1440,
-      "2025-03-18": 1440
+      "2025-03-19": 1440
     }
   },
   {
@@ -1984,10 +1983,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
-    "time": 2701,
-    "timeDay": 6612,
-    "timeWeek": 3965,
-    "timeMonth": 3322,
+    "time": 2702,
+    "timeDay": 2026,
+    "timeWeek": 3751,
+    "timeMonth": 3262,
     "timeYear": 3002,
     "dailyMinutesDown": {
       "2026-03-03": 20,
