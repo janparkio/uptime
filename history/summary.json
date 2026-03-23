@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-23": 1135,
+      "2026-03-23": 1256,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 278,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2026-03-23": 1135,
+      "2026-03-23": 1256,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -847,7 +847,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nutrihuevos.com.py.ico",
     "slug": "nutrihuevos",
     "status": "up",
-    "uptime": "88.40%",
+    "uptime": "88.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1181,19 +1181,19 @@
     "url": "https://organitec.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/organitec.com.py.ico",
     "slug": "organitec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "96.06%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "96.05%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "99.55%",
     "time": 992,
-    "timeDay": 572,
-    "timeWeek": 680,
-    "timeMonth": 695,
+    "timeDay": 566,
+    "timeWeek": 676,
+    "timeMonth": 694,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2026-03-23": 76,
+      "2026-03-23": 77,
       "2026-03-22": 79,
       "2026-03-21": 76,
       "2026-03-20": 87,
@@ -1235,8 +1235,7 @@
       "2026-02-09": 17,
       "2026-02-08": 55,
       "2026-02-06": 20,
-      "2026-02-05": 61,
-      "2026-02-04": 18
+      "2026-02-05": 61
     }
   },
   {
@@ -1256,7 +1255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-23": 1135,
+      "2026-03-23": 1256,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -1640,7 +1639,7 @@
     "timeMonth": 0,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2026-03-23": 1135,
+      "2026-03-23": 1256,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
