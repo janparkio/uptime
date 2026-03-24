@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-24": 20,
+      "2026-03-24": 78,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 296,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2026-03-24": 20,
+      "2026-03-24": 78,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -1181,18 +1181,19 @@
     "url": "https://organitec.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/organitec.com.py.ico",
     "slug": "organitec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "93.40%",
+    "uptimeDay": "93.36%",
     "uptimeWeek": "95.87%",
-    "uptimeMonth": "97.39%",
-    "uptimeYear": "99.55%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "99.56%",
     "time": 992,
-    "timeDay": 519,
-    "timeWeek": 667,
-    "timeMonth": 694,
-    "timeYear": 927,
+    "timeDay": 515,
+    "timeWeek": 663,
+    "timeMonth": 693,
+    "timeYear": 926,
     "dailyMinutesDown": {
+      "2026-03-24": 1,
       "2026-03-23": 95,
       "2026-03-22": 79,
       "2026-03-21": 76,
@@ -1235,7 +1236,7 @@
       "2026-02-09": 17,
       "2026-02-08": 55,
       "2026-02-06": 20,
-      "2026-02-05": 61
+      "2026-02-05": 20
     }
   },
   {
@@ -1255,7 +1256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-24": 20,
+      "2026-03-24": 79,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -1639,7 +1640,7 @@
     "timeMonth": 0,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2026-03-24": 20,
+      "2026-03-24": 79,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
