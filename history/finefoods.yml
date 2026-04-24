@@ -1,7 +1,7 @@
 url: https://finefoods.com.py/
-status: up
-code: 200
-responseTime: 2076
-lastUpdated: 2026-04-24T04:00:44.998Z
+status: down
+code: 429
+responseTime: 731
+lastUpdated: 2026-04-24T14:22:55.669Z
 startTime: 2021-08-09T21:52:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
