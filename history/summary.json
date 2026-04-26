@@ -8,7 +8,7 @@
     "uptime": "57.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.28%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "8.27%",
     "time": 868,
     "timeDay": 871,
@@ -370,7 +370,7 @@
     "timeMonth": 376,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2026-04-26": 31,
+      "2026-04-26": 49,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -746,7 +746,7 @@
     "uptime": "97.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.80%",
+    "uptimeMonth": "46.76%",
     "uptimeYear": "90.02%",
     "time": 2393,
     "timeDay": 203,
@@ -754,7 +754,7 @@
     "timeMonth": 1567,
     "timeYear": 2402,
     "dailyMinutesDown": {
-      "2026-04-26": 31,
+      "2026-04-26": 49,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -1157,18 +1157,19 @@
     "url": "https://organitec.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/organitec.com.py.ico",
     "slug": "organitec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.54%",
-    "uptimeMonth": "96.13%",
+    "uptimeMonth": "96.17%",
     "uptimeYear": "99.49%",
     "time": 949,
-    "timeDay": 507,
-    "timeWeek": 587,
-    "timeMonth": 570,
+    "timeDay": 491,
+    "timeWeek": 583,
+    "timeMonth": 569,
     "timeYear": 884,
     "dailyMinutesDown": {
+      "2026-04-26": 0,
       "2026-04-24": 44,
       "2026-04-22": 24,
       "2026-04-21": 57,
@@ -1207,7 +1208,7 @@
       "2026-03-07": 47,
       "2026-03-06": 85,
       "2026-03-05": 25,
-      "2026-03-04": 34
+      "2026-03-04": 18
     }
   },
   {
@@ -1227,7 +1228,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-26": 49,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -1611,7 +1612,7 @@
     "timeMonth": 0,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-26": 49,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
