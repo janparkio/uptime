@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.03%",
-    "uptimeYear": "11.14%",
+    "uptimeYear": "11.15%",
     "time": 797,
     "timeDay": 745,
     "timeWeek": 541,
@@ -340,8 +340,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   },
   {
@@ -350,7 +349,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativepark.com.py.ico",
     "slug": "creative-park",
     "status": "down",
-    "uptime": "45.49%",
+    "uptime": "45.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -361,7 +360,8 @@
     "timeMonth": 378,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2026-05-07": 1436,
+      "2026-05-08": 33,
+      "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -724,8 +724,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   },
   {
@@ -734,7 +733,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tupi.com.py.ico",
     "slug": "tupi",
     "status": "down",
-    "uptime": "96.66%",
+    "uptime": "96.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.06%",
@@ -745,7 +744,8 @@
     "timeMonth": 415,
     "timeYear": 2306,
     "dailyMinutesDown": {
-      "2026-05-07": 1436,
+      "2026-05-08": 33,
+      "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -823,8 +823,7 @@
       "2025-05-12": 1085,
       "2025-05-11": 1282,
       "2025-05-10": 975,
-      "2025-05-09": 251,
-      "2025-05-08": 674
+      "2025-05-09": 251
     }
   },
   {
@@ -1042,19 +1041,20 @@
     "url": "https://ywamasuncion.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ywamasuncion.com.ico",
     "slug": "ywam-asuncion",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "90.47%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "88.00%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.90%",
     "time": 1367,
-    "timeDay": 819,
-    "timeWeek": 946,
-    "timeMonth": 1080,
-    "timeYear": 1460,
+    "timeDay": 863,
+    "timeWeek": 964,
+    "timeMonth": 1083,
+    "timeYear": 1459,
     "dailyMinutesDown": {
-      "2026-05-07": 138,
+      "2026-05-08": 32,
+      "2026-05-07": 141,
       "2026-04-26": 17,
       "2026-04-25": 19,
       "2026-04-24": 72,
@@ -1098,19 +1098,20 @@
     "url": "https://finefoods.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/finefoods.com.py.ico",
     "slug": "finefoods",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "90.64%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "88.08%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.89%",
-    "time": 1883,
-    "timeDay": 1584,
-    "timeWeek": 1677,
-    "timeMonth": 1675,
+    "time": 1885,
+    "timeDay": 1647,
+    "timeWeek": 1709,
+    "timeMonth": 1685,
     "timeYear": 1966,
     "dailyMinutesDown": {
-      "2026-05-07": 135,
+      "2026-05-08": 32,
+      "2026-05-07": 140,
       "2026-04-26": 17,
       "2026-04-24": 103,
       "2026-04-09": 29,
@@ -1228,7 +1229,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-07": 1437,
+      "2026-05-08": 34,
+      "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -1591,8 +1593,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   },
   {
@@ -1601,7 +1602,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/restaurantpiroschka.com.ico",
     "slug": "restaurant-piroschka",
     "status": "down",
-    "uptime": "64.81%",
+    "uptime": "64.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1612,7 +1613,8 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2026-05-07": 1437,
+      "2026-05-08": 34,
+      "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -1937,8 +1939,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   },
   {
